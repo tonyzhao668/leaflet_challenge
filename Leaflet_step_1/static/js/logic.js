@@ -11,6 +11,7 @@ var myMap = L.map("map", {
     maxZoom: 18,
     zoomOffset: -1,
     id: "mapbox/streets-v11",
+    // id: "mapbox/satellite-v9",
     accessToken: API_KEY
   }).addTo(myMap);
   
