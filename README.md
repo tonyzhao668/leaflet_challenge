@@ -8,7 +8,11 @@ The USGS is responsible for providing scientific data about natural hazards, the
 
 The task is to visualize USGS' data to better educate the public and other government organizations on issues facing our planet.
 
-## Your Task
+## The Task Details
+
+### The final website show link:
+
+[World Earthquake](https://tonyzhao668.github.io/leaflet_challenge/)
 
 ### Level 1: Basic Visualization
 
