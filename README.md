@@ -16,7 +16,7 @@ The task is to visualize USGS' data to better educate the public and other gover
 
 ### Level 1: Basic Visualization
 
-![2-BasicMap](Images/2-BasicMap.png)
+![BasicMap](Images/street.png)
 
  task is to visualize an earthquake data set.
 
