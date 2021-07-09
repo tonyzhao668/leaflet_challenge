@@ -69,5 +69,5 @@ To plot a second data set on your map to illustrate the relationship between tec
 
 
 ### Javascript coding:
-![Javascript Coding](Images/javascript.PNG)
+![Javascript Coding](Images/javascriptcoding.PNG)
 _ _ _
