@@ -29,7 +29,14 @@ The task is to visualize USGS' data to better educate the public and other gover
 
 2. **Import & Visualize the Data**
 
-   Create a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
+   **Dark Style:**
+    ![Dark](Images/dark.png)
+    
+    **Satellite Style:**
+    ![Satellite](Images/satellite.png)
+    
+    
+   Create the map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 
    * The data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
 
@@ -41,7 +48,7 @@ The task is to visualize USGS' data to better educate the public and other gover
 
 ### Level 2: More Data
 
-![5-Advanced](Images/5-Advanced.png)
+
 
 To plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. To pull in a second data set and visualize it along side the original set of data. Data on tectonic plates is found at <https://github.com/fraxen/tectonicplates>.
 
